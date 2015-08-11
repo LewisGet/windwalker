@@ -16,9 +16,9 @@
         "windwalker/event": "dev-test"
     },
     "suggest": {
-        "windwalker/database": "dev-test"Install 2.* if you want Windwalker Database.",
-        "windwalker/event": "dev-test"Install 2.* if you want to use hooks.",
-        "windwalker/compare": "dev-test"Install 2.* if you want to use Compare object."
+        "windwalker/database": "Install 2.* if you want Windwalker Database.",
+        "windwalker/event": "Install 2.* if you want to use hooks.",
+        "windwalker/compare": "Install 2.* if you want to use Compare object."
     },
     "minimum-stability": "dev",
     "autoload": {

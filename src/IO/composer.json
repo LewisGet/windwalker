@@ -13,7 +13,7 @@
         "windwalker/filter": "dev-test"
     },
     "suggest": {
-        "windwalker/filter": "dev-test"Install 2.* if you require filter support."
+        "windwalker/filter": "Install 2.* if you require filter support."
     },
     "minimum-stability": "dev",
     "autoload": {

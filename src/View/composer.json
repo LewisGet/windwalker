@@ -14,8 +14,8 @@
         "windwalker/registry": "dev-test"
     },
     "suggest": {
-        "windwalker/renderer": "dev-test"Install 2.* if you want to use HtmlView to render page.",
-        "windwalker/registry": "dev-test"Install 2.* if you want to use JsonView."
+        "windwalker/renderer": "Install 2.* if you want to use HtmlView to render page.",
+        "windwalker/registry": "Install 2.* if you want to use JsonView."
     },
     "minimum-stability": "dev",
     "autoload": {

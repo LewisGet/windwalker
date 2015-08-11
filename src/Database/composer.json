@@ -16,7 +16,7 @@
         "windwalker/compare": "dev-test"
     },
     "suggest": {
-        "windwalker/compare": "dev-test"Install 2.* if you want to use Compare object."
+        "windwalker/compare": "Install 2.* if you want to use Compare object."
     },
     "minimum-stability": "dev",
     "autoload": {
