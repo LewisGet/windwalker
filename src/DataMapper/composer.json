@@ -7,13 +7,13 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/data": "dev-test"
+        "windwalker/data": "~2.0"
     },
     "require-dev": {
-		"windwalker/database": "dev-test",
-        "windwalker/test": "dev-test",
-        "windwalker/compare": "dev-test",
-        "windwalker/event": "dev-test"
+		"windwalker/database": "~2.0",
+        "windwalker/test": "~2.0",
+        "windwalker/compare": "~2.0",
+        "windwalker/event": "~2.0"
     },
     "suggest": {
         "windwalker/database": "Install 2.* if you want Windwalker Database.",

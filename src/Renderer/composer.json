@@ -7,12 +7,12 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/registry": "dev-test",
-        "windwalker/data": "dev-test"
+        "windwalker/registry": "~2.0",
+        "windwalker/data": "~2.0"
     },
     "require-dev": {
-        "windwalker/test": "dev-test",
-        "windwalker/filesystem": "dev-test",
+        "windwalker/test": "~2.0",
+        "windwalker/filesystem": "~2.0",
         "twig/twig": "*",
         "illuminate/view": "4.1.*",
         "mustache/mustache": "2.*",

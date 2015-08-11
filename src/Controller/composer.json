@@ -9,8 +9,8 @@
         "php": ">=5.3.10"
     },
     "require-dev": {
-        "windwalker/io": "dev-test",
-        "windwalker/application": "dev-test"
+        "windwalker/io": "~2.0",
+        "windwalker/application": "~2.0"
     },
     "minimum-stability": "dev",
     "autoload": {

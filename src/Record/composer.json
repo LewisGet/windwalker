@@ -7,11 +7,11 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/database": "dev-test"
+        "windwalker/database": "~2.0"
     },
     "require-dev": {
-        "windwalker/test": "dev-test",
-        "windwalker/utilities": "dev-test"
+        "windwalker/test": "~2.0",
+        "windwalker/utilities": "~2.0"
     },
     "minimum-stability": "dev",
     "autoload": {

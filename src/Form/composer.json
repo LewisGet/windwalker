@@ -7,13 +7,13 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/dom": "dev-test",
-        "windwalker/html": "dev-test",
-        "windwalker/validator": "dev-test",
-        "windwalker/filter": "dev-test"
+        "windwalker/dom": "~2.0",
+        "windwalker/html": "~2.0",
+        "windwalker/validator": "~2.0",
+        "windwalker/filter": "~2.0"
     },
     "require-dev": {
-        "windwalker/test": "dev-test"
+        "windwalker/test": "~2.0"
     },
     "suggest": {
     },
