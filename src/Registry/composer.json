@@ -9,10 +9,10 @@
         "php": ">=5.3.10"
     },
     "require-dev": {
-        "windwalker/test": "~2.0",
+        "windwalker/test": "dev-test",
         "symfony/yaml": "2.*"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "suggest": {
         "symfony/yaml": "Install 2.* if you require YAML support."
     },

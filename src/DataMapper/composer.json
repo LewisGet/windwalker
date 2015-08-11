@@ -7,20 +7,20 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/data": "~2.0"
+        "windwalker/data": "dev-test"
     },
     "require-dev": {
-		"windwalker/database": "~2.0",
-        "windwalker/test": "~2.0",
-        "windwalker/compare": "~2.0",
-        "windwalker/event": "~2.0"
+		"windwalker/database": "dev-test",
+        "windwalker/test": "dev-test",
+        "windwalker/compare": "dev-test",
+        "windwalker/event": "dev-test"
     },
     "suggest": {
-        "windwalker/database": "Install 2.* if you want Windwalker Database.",
-        "windwalker/event": "Install 2.* if you want to use hooks.",
-        "windwalker/compare": "Install 2.* if you want to use Compare object."
+        "windwalker/database": "dev-test"Install 2.* if you want Windwalker Database.",
+        "windwalker/event": "dev-test"Install 2.* if you want to use hooks.",
+        "windwalker/compare": "dev-test"Install 2.* if you want to use Compare object."
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Windwalker\\DataMapper\\": ""

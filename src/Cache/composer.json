@@ -9,9 +9,9 @@
         "php": ">=5.3.10"
     },
     "require-dev": {
-        "windwalker/test": "~2.0"
+        "windwalker/test": "dev-test"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Windwalker\\Cache\\": ""

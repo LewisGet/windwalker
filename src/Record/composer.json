@@ -7,13 +7,13 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/database": "~2.0"
+        "windwalker/database": "dev-test"
     },
     "require-dev": {
-        "windwalker/test": "~2.0",
-        "windwalker/utilities": "~2.0"
+        "windwalker/test": "dev-test",
+        "windwalker/utilities": "dev-test"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Windwalker\\Record\\": ""

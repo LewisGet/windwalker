@@ -7,13 +7,13 @@
     "license": "LGPL-2.0+",
     "require": {
         "php": ">=5.3.10",
-        "windwalker/io": "~2.0",
-        "windwalker/registry": "~2.0"
+        "windwalker/io": "dev-test",
+        "windwalker/registry": "dev-test"
     },
     "require-dev": {
-        "windwalker/test": "~2.0"
+        "windwalker/test": "dev-test"
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Windwalker\\Console\\": ""

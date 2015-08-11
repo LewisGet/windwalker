@@ -9,13 +9,13 @@
         "php": ">=5.3.10"
     },
     "require-dev": {
-        "windwalker/test": "~2.0",
+        "windwalker/test": "dev-test",
         "psr/http-message": "1.*"
     },
     "suggest": {
         "psr/http-message": "Install 1.* if you need PsrUri support."
     },
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "Windwalker\\Uri\\": ""
